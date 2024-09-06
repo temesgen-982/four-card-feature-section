@@ -8,8 +8,8 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor](https://www.frontendmentor.io/solutions/four-card-feature-section-tSO2ljQw6U)
+- Live Site URL: [Github pages](https://temesgen-982.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -25,4 +25,4 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@temesgen-982]([https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/temesgen-982))
